@@ -1,0 +1,11 @@
+
+# dependencies
+/backend/node_modules
+/backend/templates
+
+
+/backend/package-lock.json
+/backend/yarn-error.log*
+
+
+node_modules
